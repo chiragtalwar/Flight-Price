@@ -26,3 +26,5 @@ Choose following method for hyperparameter tuning to select best parameters for 
 #### R2 Score: 
 Obtained an R2  score of 0.794.
 #### Final Accuracy = 79.4%
+### Deployed App on Heroku.com 
+## web app link: https://flight-pricing-estimator.herokuapp.com/
